@@ -1,3 +1,7 @@
-while 1:
-    a = input()
-    print(a)
+a = input()
+b = input()
+c = input()
+
+print(a)
+print(b)
+print(c)
